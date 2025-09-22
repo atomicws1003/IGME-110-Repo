@@ -11,8 +11,8 @@ Lecture notes for awesome classes (like this one!)
 Documents about anything, for anyone!
 
 ## III. Syntax
-How do I make: 
 
+How do I make: 
 -emoji
 -clickable links
 - bulleted lists
@@ -34,3 +34,23 @@ let dumb = true;
 ![Dopey](https://vignette.wikia.nocookie.net/smurfs/images/0/0d/Dopey4.JPG/revision/latest/scale-to-width-down/240?cb=20180929070848)
 
 :joy:
+
+---
+https://www.rit.edu/  
+[RIT HOMEPAGE](https://www.rit.edu/)
+
+
+1. apple  
+2. banana  
+  3. blueberry  
+  4. cantalope  
+5. melon  
+6. pineapple  
+
+- banana
+- apple
+  - melon
+  - cantalope
+- pineapple
+- blueberry
+  
